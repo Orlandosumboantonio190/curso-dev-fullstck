@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(201 196 253);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+}
+
+
+.foto-principal{
+  width: 15%;
+border: 1px solid rgb(255, 2, 2);
+border-radius: 50%;
+margin: 25px 0px 5px 30px; /*Enquanto o Margin insere um espaçamento externo, o padding dá um espaçamento interno da imagem*/
+/*padding: 10px;*/
+box-shadow: 0px 0px 15px #fd0c0c;
+}
+h1{
+  margin-bottom: 0px;
+  letter-spacing: 3px;
+}
+
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 0px;
+  font-style: italic;
+  color: #646464;
+  font-weight: bolder;
+  letter-spacing: -2px;
+}
+/*
+.Margin-Top{
+  margin-top: 16px;
+}
+
+h3{
+  margin-bottom: 0px;
+}
+
+ul{
+  margin-top: 0px;
+}
+
+p{
+  margin-top: 0px;
+}
+/*

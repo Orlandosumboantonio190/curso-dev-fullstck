@@ -1,0 +1,12 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  /*background-position: 50% 80%;*/
+  /*background-position: center center;*/
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.foto {
+    width: 200px;
+}

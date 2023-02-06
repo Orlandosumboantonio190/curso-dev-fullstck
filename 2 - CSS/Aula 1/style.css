@@ -1,0 +1,15 @@
+body {
+  background-color: burlywood;  
+}
+
+h3 {
+    color: rgb(19, 224, 81);
+}
+
+.foto {
+    width: 500px;
+}
+
+#titulo-principal {
+    color:yellow;
+}

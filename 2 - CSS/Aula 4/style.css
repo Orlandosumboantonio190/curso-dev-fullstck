@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(99, 99, 65);
+}
+
+
+.foto-principal{
+  width: 15%;
+border: 15px solid white;
+/*
+border-top: 52px;
+border-right: 62px;
+border-bottom: 25px;
+border-left: 46px;
+*/
+}

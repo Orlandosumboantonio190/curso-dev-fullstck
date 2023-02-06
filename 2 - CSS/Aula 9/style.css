@@ -1,0 +1,73 @@
+body {
+  background-color: rgb(201 196 253);
+  font-family: 'Comfortaa', 'cursive';
+  margin: 0px;
+  }
+.container{
+  width: 750px;
+  margin: 0 auto;
+
+}
+
+.foto-principal{
+width: 15%;
+border: 1px solid rgb(255, 2, 2);
+border-radius: 50%;
+margin: 25px 0px 5px 30px; /*Enquanto o Margin insere um espaçamento externo, o padding dá um espaçamento interno da imagem*/
+/*padding: 10px;*/
+box-shadow: 0px 0px 15px #fd0c0c;
+}
+h1{
+  margin-bottom: 0px;
+  letter-spacing: 3px;
+}
+
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 0px;
+  font-style: italic;
+  color: #646464;
+  font-weight: bolder;
+  letter-spacing: -2px;
+}
+
+
+.caixa{
+  width: 111px;
+  height: 120px;
+  background-color: #e0c6c6;
+  border-radius: 50% 0% 50% 0%;
+  border: 5px solid brown;
+  margin: 0 auto;
+}
+
+.Jobs-list{
+list-style: none;
+padding-left: 40px;  
+}
+
+.Footer{
+margin-top: 40px;
+color: white;
+background-color: black;
+text-align: center;
+padding: 10px 0px;
+
+}
+/*
+.Margin-Top{
+  margin-top: 16px;
+}
+
+h3{
+  margin-bottom: 0px;
+}
+
+ul{
+  margin-top: 0px;
+}
+
+p{
+  margin-top: 0px;
+}
+/*

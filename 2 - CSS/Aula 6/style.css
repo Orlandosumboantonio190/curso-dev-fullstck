@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(99, 99, 65);
+}
+
+
+.foto-principal{
+  width: 15%;
+border: 2px solid white;
+border-radius: 50%;
+margin: 25px 0px 5px 30px; /*Enquanto o Margin insere um espaçamento externo, o padding dá um espaçamento interno da imagem*/
+padding: 10px;
+}
+
+.Margin-Top{
+  margin-top: 16px;
+}
+
+h3{
+  margin-bottom: 0px;
+}
+
+ul{
+  margin-top: 0px;
+}
+
+p{
+  margin-top: 0px;
+}

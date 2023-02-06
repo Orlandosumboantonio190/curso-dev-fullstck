@@ -1,0 +1,36 @@
+========POR CLASSE========
+
+uma outra forma de adicionar estilos em determinadas tag, é atraves de *classes*, e esta é uma das melhores maneiras de
+adicionar estilos-
+
+Exemplo: No arquivo html 5, editamos um dos titulos **<h3 class="NOME QUALQUER A SER INVENTADO">HABILIDADES ESPECIAIS</h3>**
+E dentro do *CSS iremos criar um regra de estilos para esta classe (h3) EX: .NOME QUALQUER A SER INVENTADO {color green}, e 
+esta regra, *color*, só altera as cores de algum texto, enquanto que a regra *background* altera o fundo todo.
+
+OBS> É NECESSARIO SEMPRE METER PONTO QUANDO ESTIVERMOS NO CSS*, COMO NO EXEMPLO ACIMA.
+
+Desta forma, se adicionarmos a esta classe em cada um dos subtitulos do nosso curriculum, eles irão ter a cor VERDE. Mas se
+nos tivessemos vários subtitulos, seria muito trabalhoso ter de adicionar em cada um deles... por isto, melhor optar por 
+selecionar simplesmente a alinea ou qual *hn* terá aquela cor... Imagina que tenho "52" h3, basta somente que eu crie uma
+regra no CSS do tipo : .h3 {color green}, e todos os meus "52" h3 terão a coloração verde.
+
+uma outra regra de CSS que não é muito usada hoje em dia, mas é importante saber, é o Id;
+
+
+========POR ID========
+
+​IDs são únicos é um identificador único, ou seja, quando adicionarmos, somengte aquela tag* terá este identificador, também 
+chamado Titulo Principal.
+
+Cada elemento pode ter apenas um ID
+Cada página pode ter apenas um elemento com aquele ID
+
+Ex no CSS: #titulo-principal {color yellow}
+
+OBS> OS css DE ID* SEMPRE COMEÇAM COM #.
+
+Tanto no html quanto no CSS, não se separa as palavras, ou põe traço para os separar, ou escreve as palavras iniciais
+e todas juntas maiusculas. (TituloPrincipal)
+
+Ex no html: <h1 id="titulo-principal">Orlando Sumbo António</h1> 
+

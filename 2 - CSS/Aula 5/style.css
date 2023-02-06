@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(99, 99, 65);
+}
+
+
+.foto-principal{
+  width: 15%;
+border: 2px solid white;
+border-radius: 50%;
+margin: 25px 0px 5px 30px;
+
+/*
+margin-top: 10px;
+margin-right: 52px;
+margin-bottom: 26px;
+margin-left: 53px;
+*/
+}
