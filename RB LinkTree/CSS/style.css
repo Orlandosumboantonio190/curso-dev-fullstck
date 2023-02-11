@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: auto;
+}
+
+body{
+    color: white;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    font-family: 'Comfortaa', cursive;
+}
+
+.content{
+    width: 650px;
+    margin: auto;
+}
+
+.profile{
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    margin-top: 25px;
+}
+.avatar{
+    width: 163px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 50%;
+    box-shadow: 0 0 30px rgb(255, 255, 255);
+
+}
+
+h1{
+    font-size: 43px;
+    font-family: 'Nova Slim', cursive;
+    font-weight: bold;
+    color: rgb(65,20,88);
+
+}
+
+h2{
+    font-size: 20px;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;
+    color: rgb(65,20,88);
+
+
+}
+
+.social{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    list-style: none;
+}
+
+.social li a img{
+    width: 50px;
+    border: 1px solid white;
+    border-radius: 50%;
+    box-shadow: 0 0 8px white;
+}
+
+.RB-description{
+    margin-top: 20px;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+
+.RB-description li{
+    margin: 5px;
+    padding: 5px;
+}
+
+
+.RB-description li a{
+    display: block;
+    background-color: white;
+    border: 3px solid white;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 20px;
+    box-shadow: 0 0 20px white;
+}
+
+.RB-description li a span{
+    display: block;
+    color: gray;
+    padding: 10px 0px 0px 0px;
+
+}
+
+.footer{
+    /*
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    */
+    margin-top: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer img{
+    width: 150px;
+}
+
+
+
+
+
